@@ -1,0 +1,21 @@
+{
+  "name": "cbse-class10-tracker",
+  "productName": "CBSE Class10 Tracker",
+  "version": "1.0.0",
+  "description": "Student Learning Tracker — CBSE Class 10 (Electron app)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron .",
+    "package-win": "electron-packager . \"CBSE Tracker\" --platform=win32 --arch=x64 --out=dist --overwrite --icon=assets/icon.ico",
+    "package-mac": "electron-packager . \"CBSE Tracker\" --platform=darwin --arch=x64 --out=dist --overwrite --icon=assets/icon.icns",
+    "package-linux": "electron-packager . \"CBSE Tracker\" --platform=linux --arch=x64 --out=dist --overwrite"
+  },
+  "devDependencies": {
+    "electron": "^26.0.0",
+    "electron-packager": "^17.1.0"
+  },
+  "keywords": ["cbse","tracker","education","electron"],
+  "author": "You",
+  "license": "MIT"
+}
