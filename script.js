@@ -92,49 +92,49 @@ const SYLLABUS = [
     subject: "Social Science — History (India & the Contemporary World–II)",
     avgTime: 30,
     lessons: [
-      "History — 1. The Rise of Nationalism in Europe",
-      "History — 2. Nationalism in India",
-      "History — 3. The Making of a Global World",
-      "History — 4. The Age of Industrialisation",
-      "History — 5. Print Culture and the Modern World"
+      "1. The Rise of Nationalism in Europe",
+      "2. Nationalism in India",
+      "3. The Making of a Global World",
+      "4. The Age of Industrialisation",
+      "5. Print Culture and the Modern World"
     ]
   },
   {
     subject: "Social Science — Geography (Contemporary India–II)",
     avgTime: 30,
     lessons: [
-      "Geography — 1. Resources and Development",
-      "Geography — 2. Forest and Wildlife Resources",
-      "Geography — 3. Water Resources",
-      "Geography — 4. Agriculture",
-      "Geography — 5. Minerals and Energy Resources",
-      "Geography — 6. Manufacturing Industries",
-      "Geography — 7. Life Lines of National Economy"
+      "1. Resources and Development",
+      "2. Forest and Wildlife Resources",
+      "3. Water Resources",
+      "4. Agriculture",
+      "5. Minerals and Energy Resources",
+      "6. Manufacturing Industries",
+      "7. Life Lines of National Economy"
     ]
   },
   {
     subject: "Social Science — Political Science (Democratic Politics–II)",
     avgTime: 25,
     lessons: [
-      "Political Science — 1. Power Sharing",
-      "Political Science — 2. Federalism",
-      "Political Science — 3. Democracy and Diversity",
-      "Political Science — 4. Gender, Religion and Caste",
-      "Political Science — 5. Popular Struggles and Movements",
-      "Political Science — 6. Political Parties",
-      "Political Science — 7. Outcomes of Democracy",
-      "Political Science — 8. Challenges to Democracy"
+      "1. Power Sharing",
+      "2. Federalism",
+      "3. Democracy and Diversity",
+      "4. Gender, Religion and Caste",
+      "5. Popular Struggles and Movements",
+      "6. Political Parties",
+      "7. Outcomes of Democracy",
+      "8. Challenges to Democracy"
     ]
   },
   {
     subject: "Social Science — Economics (Understanding Economic Development)",
     avgTime: 25,
     lessons: [
-      "Economics — 1. Development",
-      "Economics — 2. Sectors of the Indian Economy",
-      "Economics — 3. Money and Credit",
-      "Economics — 4. Globalisation and the Indian Economy",
-      "Economics — 5. Consumer Rights"
+      "1. Development",
+      "2. Sectors of the Indian Economy",
+      "3. Money and Credit",
+      "4. Globalisation and the Indian Economy",
+      "5. Consumer Rights"
     ]
   }
 ];
